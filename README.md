@@ -11,3 +11,6 @@ I used *Samsum dataset* for my project This dataset basicaly use to build text s
 7. Rogue score increase 20%
 8. hence project successful
 
+9. Next Trained the same dataset on facebook/bart-large-cnn pre-trained model and obtained improved rough score than pegasus
+10. 
+
